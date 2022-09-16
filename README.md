@@ -3,4 +3,4 @@
 
 ## 公式サイト  
 
-<a href="https://tailwindcss.com/" >公式サイト（Google翻訳を使うと楽です）</a>
+公式サイトは、<a href="https://tailwindcss.com/" >ここ</a>です。Google翻訳で各ページ自動で日本語の翻訳しながら使うと楽です。  
